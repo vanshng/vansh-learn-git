@@ -2,5 +2,5 @@
 <hr>
 This is my first git repository .
 <br>
-Author - vansh 
+Author - vansh Nagar
 
